@@ -10,7 +10,7 @@ Programming languaguages
 - C++
 - Python
 
-technologies
+Technologies
 - OnlineGDB
 - Visual Studio
 
