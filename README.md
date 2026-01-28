@@ -2,6 +2,7 @@
 
 ### Education
 computer science, Bachelor degree (In progress)
+
 University of Puerto Rico at Mayagüez
 
 ### Technical skills
