@@ -14,7 +14,7 @@ Technologies
 - OnlineGDB
 - Visual Studio
 
-  ### Academic interests
+### Academic interests
   - Cybersecurity
   - Application development
   - Ethics in technology
