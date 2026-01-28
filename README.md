@@ -1,4 +1,4 @@
-# Ariadna D. Rosario Caban
+# Student
 
 ### Education
 computer science, Bachelor degree (In progress)
